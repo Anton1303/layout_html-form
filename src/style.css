@@ -1,1 +1,9 @@
 /* styles go here */
+.label {
+  padding: 10px;
+  display: block;
+}
+
+.fieldset {
+  margin: 20px;
+}
